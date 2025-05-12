@@ -1,0 +1,113 @@
+age,weight,height,diet_preference,diet_goal,bmi,calories,breakfast_percentage,lunch_percentage,dinner_percentage,breakfast_meal,lunch_meal,dinner_meal
+25,70,175,veg,weight loss,22.9,2200,0.3,0.4,0.3,Oatmeal with fruits and nuts,Grilled chicken and veggies,Salmon with quinoa
+30,80,180,non-veg,weight loss,24.7,2500,0.25,0.45,0.3,Scrambled eggs and toast,Chicken salad,Grilled fish with vegetables
+40,85,170,veg,muscle gain,29.3,2700,0.35,0.4,0.25,Greek yogurt with granola,Lentil soup with rice,Quinoa salad with chickpeas
+50,95,165,non-veg,muscle gain,34.9,2800,0.4,0.35,0.25,Boiled eggs and spinach,Grilled chicken with veggies,Steamed salmon with asparagus
+35,70,160,non-veg,weight loss,27.3,2300,0.3,0.5,0.2,Avocado toast with eggs,Turkey sandwich,Vegetable stir-fry with tofu
+45,78,168,veg,weight loss,27.6,2100,0.3,0.4,0.3,Chia pudding,Vegetable stir-fry with tofu,Grilled tofu with quinoa
+28,75,173,non-veg,muscle gain,26.5,2600,0.3,0.4,0.3,Protein smoothie,Grilled chicken with veggies,Salmon with sweet potatoes
+60,88,180,non-veg,weight loss,27.2,2200,0.25,0.45,0.3,Omelette with spinach,Chicken salad,Roasted chicken with broccoli
+38,80,175,veg,muscle gain,26.1,2400,0.3,0.4,0.3,Greek yogurt with honey,Lentil soup,Grilled vegetables with quinoa
+29,72,169,non-veg,weight loss,25.2,2100,0.3,0.4,0.3,Boiled eggs and avocado,Chicken wrap,Grilled shrimp with vegetables
+33,78,160,veg,muscle gain,30.5,2700,0.35,0.4,0.25,Oatmeal with almonds,Quinoa salad,Tofu stir-fry with veggies
+50,82,170,non-veg,muscle gain,28.3,2600,0.3,0.45,0.25,Eggs with spinach,Grilled chicken,Grilled salmon with rice
+34,67,160,veg,weight loss,25.9,2000,0.3,0.5,0.2,Greek yogurt with berries,Vegetable curry with rice,Quinoa salad with chickpeas
+60,75,175,non-veg,muscle gain,24.5,2500,0.35,0.4,0.25,Boiled eggs,Grilled chicken with salad,Grilled chicken breast
+40,85,168,veg,weight loss,32.1,2300,0.3,0.4,0.3,Oatmeal with fruits and nuts,Vegetable stir-fry,Tofu and rice
+36,80,177,non-veg,weight loss,28.5,2100,0.25,0.45,0.3,Avocado toast,Chicken salad,Roasted chicken with broccoli
+42,88,165,non-veg,muscle gain,32.2,2700,0.35,0.4,0.25,Smoothie with protein powder,Grilled chicken and vegetables,Steak with quinoa
+31,70,173,veg,muscle gain,24.7,2500,0.3,0.4,0.3,Greek yogurt with honey,Lentil soup,Grilled vegetables with quinoa
+25,65,160,non-veg,weight loss,25.4,2100,0.3,0.4,0.3,Boiled eggs and avocado,Chicken salad,Grilled chicken with vegetables
+55,90,180,veg,muscle gain,27.8,2800,0.4,0.35,0.25,Greek yogurt with berries,Quinoa salad,Tofu stir-fry
+40,80,175,non-veg,weight loss,26.1,2200,0.3,0.45,0.25,Omelette with spinach,Chicken wrap,Grilled fish with vegetables
+29,75,170,non-veg,muscle gain,26.0,2400,0.35,0.4,0.25,Protein smoothie,Grilled chicken with rice,Salmon with roasted vegetables
+53,88,165,veg,weight loss,32.3,2100,0.3,0.45,0.25,Chia seeds,Vegetable stir-fry,Grilled tofu
+32,78,168,non-veg,muscle gain,27.6,2600,0.3,0.4,0.3,Oatmeal with nuts,Grilled chicken with quinoa,Salmon with sweet potatoes
+40,85,180,veg,weight loss,28.9,2300,0.3,0.45,0.25,Greek yogurt with fruit,Lentil soup with rice,Grilled tofu with veggies
+48,90,170,non-veg,weight loss,31.0,2200,0.25,0.5,0.25,Avocado toast,Chicken breast,Vegetable stir-fry with tofu
+60,80,160,veg,muscle gain,25.6,2500,0.35,0.4,0.25,Smoothie with protein powder,Quinoa salad,Tofu stir-fry with vegetables
+47,85,175,non-veg,muscle gain,27.8,2600,0.3,0.4,0.3,Boiled eggs and avocado,Grilled chicken,Grilled salmon
+34,72,165,veg,weight loss,26.3,2100,0.3,0.45,0.25,Greek yogurt with honey,Lentil soup with quinoa,Tofu stir-fry
+41,78,178,non-veg,muscle gain,27.6,2500,0.3,0.4,0.3,Omelette with spinach,Grilled chicken with vegetables,Steak with quinoa
+25,70,175,veg,weight loss,22.9,2200,0.3,0.4,0.3,Oatmeal with fruits and nuts,Grilled chicken and veggies,Salmon with quinoa
+30,80,180,non-veg,weight loss,24.7,2500,0.25,0.45,0.3,Scrambled eggs and toast,Chicken salad,Grilled fish with vegetables
+40,85,170,veg,muscle gain,29.3,2700,0.35,0.4,0.25,Greek yogurt with granola,Lentil soup with rice,Quinoa salad with chickpeas
+50,95,165,non-veg,muscle gain,34.9,2800,0.4,0.35,0.25,Boiled eggs and spinach,Grilled chicken with veggies,Steamed salmon with asparagus
+35,70,160,non-veg,weight loss,27.3,2300,0.3,0.5,0.2,Avocado toast with eggs,Turkey sandwich,Vegetable stir-fry with tofu
+45,78,168,veg,weight loss,27.6,2100,0.3,0.4,0.3,Chia pudding,Vegetable stir-fry with tofu,Grilled tofu with quinoa
+28,75,173,non-veg,muscle gain,26.5,2600,0.3,0.4,0.3,Protein smoothie,Grilled chicken with veggies,Salmon with sweet potatoes
+60,88,180,non-veg,weight loss,27.2,2200,0.25,0.45,0.3,Omelette with spinach,Chicken salad,Roasted chicken with broccoli
+38,80,175,veg,muscle gain,26.1,2400,0.3,0.4,0.3,Greek yogurt with honey,Lentil soup,Grilled vegetables with quinoa
+29,72,169,non-veg,weight loss,25.2,2100,0.3,0.4,0.3,Boiled eggs and avocado,Chicken wrap,Grilled shrimp with vegetables
+33,78,160,veg,muscle gain,30.5,2700,0.35,0.4,0.25,Oatmeal with almonds,Quinoa salad,Tofu stir-fry with veggies
+50,82,170,non-veg,muscle gain,28.3,2600,0.3,0.45,0.25,Eggs with spinach,Grilled chicken,Grilled salmon with rice
+34,67,160,veg,weight loss,25.9,2000,0.3,0.5,0.2,Greek yogurt with berries,Vegetable curry with rice,Quinoa salad with chickpeas
+60,75,175,non-veg,muscle gain,24.5,2500,0.35,0.4,0.25,Boiled eggs,Grilled chicken with salad,Grilled chicken breast
+40,85,168,veg,weight loss,32.1,2300,0.3,0.4,0.3,Oatmeal with fruits and nuts,Vegetable stir-fry,Tofu and rice
+36,80,177,non-veg,weight loss,28.5,2100,0.25,0.45,0.3,Avocado toast,Chicken salad,Roasted chicken with broccoli
+42,88,165,non-veg,muscle gain,32.2,2700,0.35,0.4,0.25,Smoothie with protein powder,Grilled chicken and vegetables,Steak with quinoa
+31,70,173,veg,muscle gain,24.7,2500,0.3,0.4,0.3,Greek yogurt with honey,Lentil soup,Grilled vegetables with quinoa
+25,65,160,non-veg,weight loss,25.4,2100,0.3,0.4,0.3,Boiled eggs and avocado,Chicken salad,Grilled chicken with vegetables
+55,90,180,veg,muscle gain,27.8,2800,0.4,0.35,0.25,Greek yogurt with berries,Quinoa salad,Tofu stir-fry
+40,80,175,non-veg,weight loss,26.1,2200,0.3,0.45,0.25,Omelette with spinach,Chicken wrap,Grilled fish with vegetables
+29,75,170,non-veg,muscle gain,26.0,2400,0.35,0.4,0.25,Protein smoothie,Grilled chicken with rice,Salmon with roasted vegetables
+53,88,165,veg,weight loss,32.3,2100,0.3,0.45,0.25,Chia seeds,Vegetable stir-fry,Grilled tofu
+32,78,168,non-veg,muscle gain,27.6,2600,0.3,0.4,0.3,Oatmeal with nuts,Grilled chicken with quinoa,Salmon with sweet potatoes
+40,85,180,veg,weight loss,28.9,2300,0.3,0.45,0.25,Greek yogurt with fruit,Lentil soup with rice,Grilled tofu with veggies
+48,90,170,non-veg,weight loss,31.0,2200,0.25,0.5,0.25,Avocado toast,Chicken breast,Vegetable stir-fry with tofu
+60,80,160,veg,muscle gain,25.6,2500,0.35,0.4,0.25,Smoothie with protein powder,Quinoa salad,Tofu stir-fry with vegetables
+47,85,175,non-veg,muscle gain,27.8,2600,0.3,0.4,0.3,Boiled eggs and avocado,Grilled chicken,Grilled salmon
+34,72,165,veg,weight loss,26.3,2100,0.3,0.45,0.25,Greek yogurt with honey,Lentil soup with quinoa,Tofu stir-fry
+41,78,178,non-veg,muscle gain,27.6,2500,0.3,0.4,0.3,Omelette with spinach,Grilled chicken with vegetables,Steak with quinoa
+29,67,160,veg,weight loss,25.5,2000,0.3,0.45,0.25,Oatmeal with almonds,Grilled veggies with rice,Tofu stir-fry
+30,75,173,non-veg,muscle gain,26.5,2400,0.35,0.4,0.25,Protein smoothie,Grilled chicken with quinoa,Salmon with roasted vegetables
+41,82,175,veg,weight loss,26.7,2200,0.3,0.45,0.25,Greek yogurt with honey,Vegetable stir-fry,Grilled tofu with quinoa
+38,79,170,non-veg,weight loss,27.3,2100,0.3,0.4,0.3,Boiled eggs and avocado,Chicken wrap,Grilled shrimp with vegetables
+39,72,168,veg,muscle gain,25.5,2400,0.35,0.4,0.25,Oatmeal with fruits,Quinoa salad,Tofu stir-fry with vegetables
+31,80,180,non-veg,weight loss,24.7,2300,0.3,0.45,0.25,Omelette with spinach,Chicken wrap,Grilled fish with vegetables
+27,68,175,non-veg,muscle gain,22.2,2500,0.35,0.4,0.25,Protein smoothie,Grilled chicken with rice,Salmon with roasted vegetables
+34,79,160,veg,weight loss,30.9,2100,0.3,0.45,0.25,Greek yogurt with fruits,Vegetable curry with rice,Grilled tofu
+26,74,172,non-veg,weight loss,25.0,2200,0.3,0.4,0.3,Boiled eggs and avocado,Chicken salad,Grilled chicken with vegetables
+44,90,165,veg,muscle gain,33.1,2800,0.4,0.35,0.25,Greek yogurt with honey,Lentil soup with rice,Grilled tofu with quinoa
+33,78,178,non-veg,weight loss,27.6,2200,0.3,0.45,0.25,Oatmeal with fruits,Chicken wrap,Vegetable stir-fry with tofu
+47,85,170,veg,muscle gain,28.6,2500,0.35,0.4,0.25,Greek yogurt with honey,Lentil soup with quinoa,Grilled tofu with vegetables
+50,92,165,non-veg,muscle gain,33.7,2700,0.3,0.45,0.25,Boiled eggs and avocado,Grilled chicken with vegetables,Salmon with roasted vegetables
+29,68,173,non-veg,weight loss,22.7,2100,0.25,0.5,0.25,Avocado toast with eggs,Chicken wrap,Vegetable stir-fry with tofu
+32,76,175,veg,muscle gain,24.8,2400,0.35,0.4,0.25,Greek yogurt with granola,Vegetable curry with rice,Tofu stir-fry with veggies
+27,80,180,non-veg,muscle gain,24.7,2600,0.35,0.4,0.25,Protein smoothie,Grilled chicken with quinoa,Steak with roasted vegetables
+35,72,165,non-veg,weight loss,26.4,2200,0.3,0.45,0.25,Omelette with spinach,Chicken salad,Grilled chicken with vegetables
+48,88,180,veg,muscle gain,27.2,2700,0.35,0.4,0.25,Smoothie with protein powder,Quinoa salad,Tofu stir-fry with veggies
+41,85,178,non-veg,weight loss,26.9,2300,0.3,0.45,0.25,Omelette with avocado,Grilled chicken wrap,Vegetable stir-fry with tofu
+39,77,170,veg,weight loss,26.6,2100,0.3,0.45,0.25,Greek yogurt with berries,Vegetable stir-fry with tofu,Grilled vegetables with quinoa
+30,82,173,non-veg,muscle gain,27.3,2600,0.3,0.4,0.3,Protein smoothie,Grilled chicken with quinoa,Salmon with roasted sweet potatoes
+42,89,168,veg,weight loss,31.5,2200,0.3,0.4,0.3,Oatmeal with fruit,Vegetable curry with rice,Grilled tofu with quinoa
+34,78,165,non-veg,muscle gain,28.5,2400,0.35,0.4,0.25,Boiled eggs with spinach,Grilled chicken,Steak with roasted vegetables
+36,80,180,veg,muscle gain,24.7,2500,0.35,0.4,0.25,Greek yogurt with honey,Vegetable stir-fry with quinoa,Tofu stir-fry
+37,76,170,non-veg,weight loss,26.2,2200,0.3,0.45,0.25,Oatmeal with fruits,Chicken wrap,Grilled shrimp with vegetables
+38,85,175,veg,muscle gain,27.7,2600,0.35,0.4,0.25,Smoothie with protein powder,Quinoa salad,Tofu stir-fry with vegetables
+28,74,160,non-veg,weight loss,28.8,2100,0.3,0.4,0.3,Boiled eggs with avocado,Chicken wrap,Grilled fish with veggies
+39,70,173,veg,muscle gain,23.4,2400,0.3,0.45,0.25,Greek yogurt with almonds,Vegetable curry with rice,Tofu stir-fry with quinoa
+33,78,165,non-veg,muscle gain,28.5,2500,0.35,0.4,0.25,Protein smoothie,Grilled chicken with quinoa,Salmon with roasted veggies
+41,80,175,veg,weight loss,26.1,2300,0.3,0.45,0.25,Oatmeal with fruits,Vegetable stir-fry with tofu,Grilled tofu with veggies
+34,85,168,non-veg,muscle gain,31.9,2700,0.3,0.45,0.25,Boiled eggs with avocado,Grilled chicken with veggies,Steak with roasted vegetables
+45,92,173,veg,weight loss,30.7,2200,0.3,0.4,0.3,Greek yogurt with honey,Vegetable curry with quinoa,Grilled tofu with vegetables
+37,78,170,non-veg,muscle gain,27.0,2400,0.3,0.4,0.3,Omelette with spinach,Grilled chicken with vegetables,Steak with quinoa
+44,87,175,veg,weight loss,28.4,2100,0.3,0.45,0.25,Greek yogurt with fruits,Vegetable stir-fry with tofu,Grilled tofu
+32,72,168,non-veg,muscle gain,25.6,2500,0.35,0.4,0.25,Protein smoothie,Grilled chicken with quinoa,Salmon with roasted veggies
+50,94,165,veg,muscle gain,34.5,2700,0.35,0.4,0.25,Smoothie with protein powder,Quinoa salad,Tofu stir-fry with vegetables
+29,77,173,non-veg,weight loss,25.6,2200,0.3,0.45,0.25,Avocado toast,Chicken wrap,Grilled fish with veggies
+42,80,170,veg,muscle gain,27.7,2600,0.35,0.4,0.25,Greek yogurt with honey,Lentil soup with rice,Grilled tofu with quinoa
+35,82,180,non-veg,muscle gain,25.3,2500,0.35,0.4,0.25,Protein smoothie,Grilled chicken with quinoa,Salmon with roasted vegetables
+36,88,175,veg,weight loss,28.7,2200,0.3,0.45,0.25,Greek yogurt with honey,Vegetable curry with rice,Grilled tofu with quinoa
+40,76,168,non-veg,muscle gain,27.1,2400,0.35,0.4,0.25,Boiled eggs with avocado,Grilled chicken with vegetables,Steak with roasted potatoes
+41,90,170,veg,muscle gain,31.1,2600,0.35,0.4,0.25,Greek yogurt with berries,Vegetable stir-fry with tofu,Grilled tofu with quinoa
+38,79,165,non-veg,weight loss,29.0,2200,0.3,0.45,0.25,Oatmeal with fruits,Chicken wrap,Grilled shrimp with vegetables
+30,75,173,veg,muscle gain,25.0,2500,0.35,0.4,0.25,Greek yogurt with honey,Lentil soup with rice,Tofu stir-fry with vegetables
+33,80,177,non-veg,muscle gain,28.5,2700,0.35,0.4,0.25,Protein smoothie,Grilled chicken with vegetables,Salmon with quinoa
+41,85,170,veg,weight loss,29.3,2200,0.3,0.45,0.25,Greek yogurt with fruits,Lentil soup with quinoa,Grilled tofu with quinoa
+34,74,165,non-veg,muscle gain,27.6,2400,0.3,0.45,0.25,Boiled eggs and avocado,Grilled chicken with vegetables,Steak with roasted potatoes
+32,72,160,veg,muscle gain,25.0,2300,0.35,0.4,0.25,Greek yogurt with honey,Vegetable stir-fry,Grilled tofu with quinoa
+35,80,175,non-veg,weight loss,26.1,2100,0.3,0.45,0.25,Omelette with spinach,Chicken wrap,Vegetable stir-fry with tofu
+41,89,168,veg,weight loss,31.5,2200,0.3,0.4,0.3,Oatmeal with fruit,Vegetable curry with rice,Grilled tofu with quinoa
+36,77,170,non-veg,muscle gain,26.6,2500,0.3,0.4,0.3,Oatmeal with fruits,Grilled chicken with quinoa,Salmon with roasted vegetables
+33,80,173,veg,muscle gain,27.1,2600,0.35,0.4,0.25,Greek yogurt with honey,Lentil soup with rice,Tofu stir-fry with vegetables
